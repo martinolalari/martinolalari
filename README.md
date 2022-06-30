@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @martinolalari
+- 👀 I’m interested in IT, music:shoe gaze, alternative rock, jazz, prog rock; the game of chess 
+- 🌱 I’m currently learning: python shell scripting, cyber security 
+--->
